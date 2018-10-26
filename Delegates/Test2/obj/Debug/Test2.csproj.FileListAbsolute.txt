@@ -1,0 +1,7 @@
+C:\CC6\ThowAway\Delegates\Test2\bin\Debug\Test2.exe.config
+C:\CC6\ThowAway\Delegates\Test2\bin\Debug\Test2.exe
+C:\CC6\ThowAway\Delegates\Test2\bin\Debug\Test2.pdb
+C:\CC6\ThowAway\Delegates\Test2\obj\Debug\Test2.csprojAssemblyReference.cache
+C:\CC6\ThowAway\Delegates\Test2\obj\Debug\Test2.csproj.CoreCompileInputs.cache
+C:\CC6\ThowAway\Delegates\Test2\obj\Debug\Test2.exe
+C:\CC6\ThowAway\Delegates\Test2\obj\Debug\Test2.pdb
